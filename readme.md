@@ -15,8 +15,8 @@ LLevar una conversacion de whatsapp a un documento pdf.
 5. Se creara una carpeta con el nombre del archivo zip en la carpeta pdf, esta carpeta contendra un archivo pdf y 6 carpetas. El archivo pdf contiene la conversacion y las carpetas los documentos seprados por tipo.
 
 ### *Nota: 
-
-- El archivo txt que se genera no es igual en android y iphone. Este programa funciona solo con archivos zip 
+>.[!NOTE].
+>El archivo txt que se genera no es igual en android y iphone. Este programa funciona solo con archivos zip 
 provenienetes de android.
 
 
