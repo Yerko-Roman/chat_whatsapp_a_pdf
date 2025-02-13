@@ -19,6 +19,8 @@ LLevar una conversacion de whatsapp a un documento pdf.
 - El archivo txt que se genera no es igual en android y iphone. Este programa funciona solo con archivos zip 
 provenienetes de android.
 
+
+.z.la
 # Requisitos
 
 - python
