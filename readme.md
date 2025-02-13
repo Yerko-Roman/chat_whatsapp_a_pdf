@@ -26,4 +26,4 @@ provenienetes de android.
 - python
 - zipfile
 - fpdf
-- cleantext
+- clean-text

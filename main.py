@@ -27,6 +27,12 @@ cont_documento = 0
 carpeta_descomprimido = './zip_descomprimido/' + nombre_proyecto + 'zip'
 carpeta_pdf = './pdf/' + nombre_proyecto + 'pdf'
 
+if not os.path.exists('zip_descomprimido'):
+    os.mkdir('zip_descomprimido')
+
+if not os.path.exists('pdf'):
+    os.mkdir('pdf')
+
 if not os.path.exists(carpeta_descomprimido):
     os.mkdir(carpeta_descomprimido)
 
